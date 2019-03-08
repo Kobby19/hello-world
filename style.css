@@ -8,5 +8,13 @@ body{
 }
 nav:hover {
     text-transform: uppercase;
-    font-family: monospace;
+    font-family: monospace;}
+
+.services i{
+       
+    font-size: 30px;
+    padding: 25px 20px;
+    color: #fff;
+    
+    
 }
