@@ -1,20 +1,22 @@
-
-h1{
-    background-color: lightblue;
+header {
+   /*Sizing of the element*/
+   height: 500px;
+   width: 100%;
+   /*Set and adjust background image*/
+   background-image: url("https://wallpaperaccess.com/full/130157.jpg");
+   background-size: cover;
+   /*Center the text*/
+   text-align: center;
+   font-family: 'Major Mono Display', monospace;
 }
+p {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    
 
-body{
-    text-transform: uppercase;
 }
-nav:hover {
-    text-transform: uppercase;
-    font-family: monospace;}
-
-.services i{
-       
-    font-size: 30px;
-    padding: 25px 20px;
-    color: #fff;
-    
-    
+h1 {
+    color: black;
+    font-weight: bold;
 }
